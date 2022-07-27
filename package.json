@@ -1,0 +1,22 @@
+{
+  "name": "data-location",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "import": "node app.js",
+    "import-dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^2.6.6",
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "pg": "8.6.0"
+  },
+  "engines": {
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

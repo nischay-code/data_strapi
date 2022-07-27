@@ -1,0 +1,113 @@
+export const data = [
+  {
+    title: "ANDAMAN & NICOBAR ISLANDS",
+  },
+  {
+    title: "ANDHRA PRADESH",
+  },
+  {
+    title: "ARUNACHAL PRADESH",
+  },
+  {
+    title: "ASSAM",
+  },
+  {
+    title: "BIHAR",
+  },
+  {
+    title: "CHANDIGARH",
+  },
+  {
+    title: "CHATTISGARH",
+  },
+  {
+    title: "DADRA & NAGAR HAVELI",
+  },
+  {
+    title: "DAMAN & DIU",
+  },
+  {
+    title: "DELHI",
+  },
+  {
+    title: "GOA",
+  },
+  {
+    title: "GUJARAT",
+  },
+  {
+    title: "HARYANA",
+  },
+  {
+    title: "HIMACHAL PRADESH",
+  },
+  {
+    title: "JAMMU & KASHMIR",
+  },
+  {
+    title: "JHARKHAND",
+  },
+  {
+    title: "KARNATAKA",
+  },
+  {
+    title: "KERALA",
+  },
+  {
+    title: "LAKSHADWEEP",
+  },
+  {
+    title: "MADHYA PRADESH",
+  },
+  {
+    title: "MAHARASHTRA",
+  },
+  {
+    title: "MANIPUR",
+  },
+  {
+    title: "MEGHALAYA",
+  },
+  {
+    title: "MIZORAM",
+  },
+  {
+    title: "NAGALAND",
+  },
+  {
+    title: "NULL",
+  },
+  {
+    title: "ODISHA",
+  },
+  {
+    title: "PONDICHERRY",
+  },
+  {
+    title: "PUNJAB",
+  },
+  {
+    title: "RAJASTHAN",
+  },
+  {
+    title: "SIKKIM",
+  },
+  {
+    title: "TAMIL NADU",
+  },
+  {
+    title: "TELANGANA",
+  },
+  {
+    title: "TRIPURA",
+  },
+  {
+    title: "UTTAR PRADESH",
+  },
+  {
+    title: "UTTARAKHAND",
+  },
+  {
+    title: "WEST BENGAL",
+  },
+];
